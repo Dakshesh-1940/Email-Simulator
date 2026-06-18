@@ -137,6 +137,6 @@ python main.py
 
 ## Author
 
-Dinesh Kumar
+Dakshesh.M
 
 Built as a Python OOP practice project.
